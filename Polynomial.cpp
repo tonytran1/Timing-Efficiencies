@@ -1,5 +1,4 @@
 /**
-*	CSC 340
 *	Filename: Polynomial.cpp
 *	In Class Exercise - Polynomial: Time Taken
 *
