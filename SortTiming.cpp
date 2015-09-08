@@ -207,12 +207,6 @@ public:
 	}
 };
 
-class RadixSort : public SortTimer
-{
-public:
-	RadixSort(){}
-	~RadixSort(){}
-
 int main()
 {
 	std::list<int> list;
